@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://github.com/DilumBBandara/Lock"><img title="Version" src="https://img.shields.io/badge/Version-1.1-green?style=for-the-badge&logo="></a>
 </p>
-<br><a href="https://github.com/DilumBBandara/Lock"><img src="https://github.com/DilumBBandara/Lock/password.jpg"></a>
+<br><a href="https://github.com/DilumBBandara/Lock"><img src="https://github.com/DilumBBandara/Lock/blob/main/password.jpg"></a>
 
 
 ## AVAILABLE ON :
