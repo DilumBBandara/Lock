@@ -8,7 +8,7 @@
 <br><a href="https://github.com/DilumBBandara/Lock"><img src="https://github.com/DilumBBandara/Lock/blob/main/password.jpg"></a>
 
 ##
-termux locking tool. If you run this tool on termux, it cannot be restored
+Termux locking tool. If you run this tool on termux, it cannot be restored
 
 ## AVAILABLE ON :
 
