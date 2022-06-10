@@ -33,3 +33,7 @@ Termux locking tool. If you run this tool on termux, it cannot be restored
     git clone https://github.com/DilumBBandara/Lock.git
     cd Lock
     python setup.py
+
+## Warning ‼️
+
+   This tool is made for educational purposes only.
